@@ -15,12 +15,27 @@ namespace Yus
 
             while(wut)
             {
-                Console.WriteLine("What is your favorite color?");
-                Console.ReadLine();
+                Console.WriteLine(@"\");
                 Console.Clear();
-                Console.WriteLine("NO");
-                Thread.Sleep(3000);
+                Thread.Sleep(2500);
+                Console.WriteLine(@"|");
                 Console.Clear();
+                Thread.Sleep(2500);
+                Console.WriteLine(@"/");
+                Console.Clear();
+                Thread.Sleep(2500);
+                Console.WriteLine(@"-");
+                Console.Clear();
+                Thread.Sleep(2500);
+                Console.WriteLine(@"|");
+                Console.Clear();
+                Thread.Sleep(2500);
+                Console.WriteLine(@"/");
+                Console.Clear();
+                Thread.Sleep(2500);
+                Console.WriteLine(@"-");
+                Console.Clear();
+                Thread.Sleep(2500);
             }
 
         }
