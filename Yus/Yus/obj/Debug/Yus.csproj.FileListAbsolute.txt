@@ -1,6 +1,0 @@
-C:\Users\ceadmin.DONALDCE\Documents\GitHub\Test3\Yus\Yus\bin\Debug\Yus.exe.config
-C:\Users\ceadmin.DONALDCE\Documents\GitHub\Test3\Yus\Yus\bin\Debug\Yus.exe
-C:\Users\ceadmin.DONALDCE\Documents\GitHub\Test3\Yus\Yus\bin\Debug\Yus.pdb
-C:\Users\ceadmin.DONALDCE\Documents\GitHub\Test3\Yus\Yus\obj\Debug\Yus.csprojResolveAssemblyReference.cache
-C:\Users\ceadmin.DONALDCE\Documents\GitHub\Test3\Yus\Yus\obj\Debug\Yus.exe
-C:\Users\ceadmin.DONALDCE\Documents\GitHub\Test3\Yus\Yus\obj\Debug\Yus.pdb
